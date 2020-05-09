@@ -1,6 +1,6 @@
 package com.skillbox.airport;
 
-public class Aircraft {
+public class  Aircraft {
     private String model;
 
     public Aircraft(String model) {
