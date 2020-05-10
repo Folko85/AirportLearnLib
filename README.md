@@ -3,9 +3,9 @@ Library for Skillbox courses
 
 Это библиотека для домашнего задания 7.1
 Чтобы подключить её, необходимо добавить в файл pom.xml своего maven-проекта
-репозиторий на гитхабе, с которого будет скачиваться библиотека
+репозиторий на гитхабе, с которого будет скачиваться библиотека:
 
-  <repositories>
+    <repositories>
         <repository>
             <id>AirportLearnLib-mvn-repo</id>
             <url>https://raw.github.com/Folko85/AirportLearnLib/mvn-repo/</url>
