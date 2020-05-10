@@ -1,4 +1,4 @@
-package main.java.com.skillbox.airport;
+package com.skillbox.airport;
 
 public class  Aircraft {
     private String model;

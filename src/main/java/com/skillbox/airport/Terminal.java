@@ -1,4 +1,4 @@
-package main.java.com.skillbox.airport;
+package com.skillbox.airport;
 
 import java.util.ArrayList;
 import java.util.List;
