@@ -6,6 +6,7 @@
     <groupId>com.skillbox</groupId>
     <artifactId>AirportLearnLib</artifactId>
     <version>1.0.1</version>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>11</java.version>
