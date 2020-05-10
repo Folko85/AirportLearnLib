@@ -1,0 +1,5 @@
+com\skillbox\airport\Aircraft.class
+com\skillbox\airport\Airport.class
+com\skillbox\airport\Terminal.class
+com\skillbox\airport\Flight.class
+com\skillbox\airport\Flight$Type.class
