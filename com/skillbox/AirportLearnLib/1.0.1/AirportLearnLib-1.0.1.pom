@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.skillbox</groupId>
-    <artifactId>com.skillbox.airport</artifactId>
+    <artifactId>AirportLearnLib</artifactId>
     <version>1.0.1</version>
 
     <properties>
@@ -29,7 +29,7 @@
                 <version>3.1</version>
                 <configuration>
                     <includes>
-                        <include>src</include>
+                        <include>src/main/java</include>
                     </includes>
                 </configuration>
             </plugin>
