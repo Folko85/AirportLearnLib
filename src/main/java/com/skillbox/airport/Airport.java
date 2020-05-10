@@ -1,6 +1,6 @@
-package com.skillbox.airport;
+package main.java.com.skillbox.airport;
 
-import com.skillbox.airport.Flight.Type;
+import main.java.com.skillbox.airport.Flight.Type;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
